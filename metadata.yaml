@@ -1,0 +1,27 @@
+_repo: An-Old-Man-s-Darling_54570
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Miller, Alex. McVeigh, Mrs.
+    aliases:
+    - Miller, Mrs. Alex. McVeigh
+    - Miller, Alexander McVeigh, Mrs.
+    - Point, Mittie Frances Clarke
+    - Miller, Mrs. Alex McVeigh
+    birthdate: 1850
+    deathdate: 1937
+    gutenberg_agent_id: '35103'
+    url: http://www.gutenberg.org/2009/agents/35103
+description: ''
+gutenberg_issued: '2017-04-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54570'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: An Old Man's Darling
+url: http://www.gutenberg.org/ebooks/54570
